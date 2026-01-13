@@ -2,7 +2,7 @@
 
 ### 🎓 Hakkımda
 - *Yazılım Mühendisliği* son sınıf öğrencisiyim.
-- 2 Şubat itibarıyla *Uzun Dönem Siber Güvenlik Stajı* arayışındayım.
+- 2 Şubat itibarıyla *Uzun Dönem zorunlu Staj* arayışındayım.
 
 ### 🛠 Yetkinlikler
 - *Programlama:* Python, C, C++, C#
