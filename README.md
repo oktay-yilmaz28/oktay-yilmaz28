@@ -1,4 +1,15 @@
-## Hi there 👋
+# Selam, ben Oktay 👋
+
+### 🎓 Hakkımda
+- *Yazılım Mühendisliği* son sınıf öğrencisiyim.
+- 2 Şubat itibarıyla *Uzun Dönem Siber Güvenlik Stajı* arayışındayım.
+
+### 🛠 Yetkinlikler
+- *Programlama:* Python, SQL, C, C++, C#
+- *Ağ Güvenliği:* Cisco Packet Tracer, Network Topolojileri, VLAN Yapılandırma
+- *Siber Güvenlik:* Güvenli Kod Geliştirme, Temel Network Analizi
+
+📫 E-posta: oktayilmaz.se@gmail.com
 
 <!--
 **oktay-yilmaz28/oktay-yilmaz28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
