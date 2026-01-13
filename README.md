@@ -5,7 +5,7 @@
 - 2 Şubat itibarıyla *Uzun Dönem Siber Güvenlik Stajı* arayışındayım.
 
 ### 🛠 Yetkinlikler
-- *Programlama:* Python, SQL, C, C++, C#
+- *Programlama:* Python, C, C++, C#
 - *Ağ Güvenliği:* Cisco Packet Tracer, Network Topolojileri, VLAN Yapılandırma
 - *Siber Güvenlik:* Güvenli Kod Geliştirme, Temel Network Analizi
 
