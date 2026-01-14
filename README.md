@@ -1,6 +1,6 @@
 ## 🎓 Hakkımda
 - *Yazılım Mühendisliği* son sınıf öğrencisiyim.
-- 2 Şubat itibarıyla *Uzun Dönem zorunlu Staj* arayışındayım.
+- 2 Şubat başlangıçlı *Uzun Dönem zorunlu Staj* arıyorum..
 
 ## 🛠 Yetkinlikler
 - *Programlama:* Python, C, C++, C#
