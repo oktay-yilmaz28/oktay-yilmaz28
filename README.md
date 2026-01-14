@@ -1,10 +1,8 @@
-# Selam, ben Oktay 👋
-
-### 🎓 Hakkımda
+## 🎓 Hakkımda
 - *Yazılım Mühendisliği* son sınıf öğrencisiyim.
 - 2 Şubat itibarıyla *Uzun Dönem zorunlu Staj* arayışındayım.
 
-### 🛠 Yetkinlikler
+## 🛠 Yetkinlikler
 - *Programlama:* Python, C, C++, C#
 - *Ağ Güvenliği:* Cisco Packet Tracer, Network Topolojileri, VLAN Yapılandırma
 - *Siber Güvenlik:* Güvenli Kod Geliştirme, Temel Network Analizi
