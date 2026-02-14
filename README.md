@@ -1,6 +1,6 @@
 ## 🎓 Hakkımda
 - *Yazılım Mühendisliği* son sınıf öğrencisiyim.
-- *Uzun Dönem Zorunlu Stajım* için firma arıyorum.
+  
 
 ## 🛠 Yetkinlikler
 - *Programlama:* Python, C, C++, C#
